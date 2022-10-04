@@ -9,4 +9,6 @@ to the zindi rice risease classification challenge where we are to predict if a 
 02. [Makerere Fall Armyworm Crop Challenge](https://github.com/chimaobi-okite/ComputerVisionProjects-Competitions/tree/main/MakerereFallArmyworCropChallenge):
 This repository contains my entry to the zindi Makerere Fall Armyworm Crop Challenge where we are to determine if maize crops have been affected by the fall armyworm pest
 
+03. [DPhi Pharmaceutical Drug Recognition Challenge]():
+This repository contains my third place solution entry to the DPhi tech Pharmaceutical Drug Recognition Challenge where we were to come up with a Deep Learning Algorithm that helps the doctors to successfully classify the pharmaceutical drugs thereby reducing any unnecessary mishaps.
 
